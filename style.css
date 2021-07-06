@@ -119,7 +119,7 @@ h1 {
     color: whitesmoke;
 }
 
-#learn {
+.learn {
     text-align: center;
 }
 
@@ -134,5 +134,11 @@ a {
     display: flex;
     margin-bottom: 5%;
 
+
+}
+
+.deco {
+    text-decoration: underline;
+    font-weight: bolder;
 
 }
